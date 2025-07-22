@@ -1,7 +1,7 @@
 # Clustering Analysis of Country Data
 
 ## 📄 Description
-This repository contains a Jupyter Notebook (`practica3_final.ipynb`) in which we perform a complete clustering analysis on the **Country Data** dataset from Kaggle. We clean and preprocess socio‑economic indicators (GDP per capita, life expectancy, health expenditure, infant mortality rate, etc.), explore the data, and apply four clustering algorithms—**K‑Means**, **Agglomerative Clustering**, **DBSCAN**, and **Spectral Clustering**—to identify natural groupings of countries based on their development profiles.
+This repository contains a Jupyter Notebook in which we perform a complete clustering analysis on the **Country Data** dataset from Kaggle. We clean and preprocess socio‑economic indicators (GDP per capita, life expectancy, health expenditure, infant mortality rate, etc.), explore the data, and apply four clustering algorithms—**K‑Means**, **Agglomerative Clustering**, **DBSCAN**, and **Spectral Clustering**—to identify natural groupings of countries based on their development profiles.
 
 ---
 
@@ -20,9 +20,6 @@ This repository contains a Jupyter Notebook (`practica3_final.ipynb`) in which w
   - [Spectral Clustering](#spectral-clustering)  
 - [Results and Discussion](#results-and-discussion)  
 - [Conclusion](#conclusion)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)  
 
 ---
 
